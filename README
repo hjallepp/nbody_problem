@@ -1,5 +1,3 @@
-An implementation of the nbody-problem lab as part of the ID1217 course at KTH
-
 compile with javac *.java
 
 Run bruteforce versions with
