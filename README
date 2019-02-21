@@ -1,0 +1,13 @@
+An implementation of the nbody-problem lab as part of the ID1217 course at KTH
+
+compile with javac *.java
+
+Run bruteforce versions with
+java NSQSer
+java NSQPar
+
+Run Barnes-Hutt versions with
+java BHSer
+java BHPar
+
+User will be prompted for parameter input
