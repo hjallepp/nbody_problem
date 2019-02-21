@@ -1,3 +1,5 @@
+For more background, read djacob_nbody_reportv2.pdf
+
 compile with javac *.java
 
 Run bruteforce versions with
